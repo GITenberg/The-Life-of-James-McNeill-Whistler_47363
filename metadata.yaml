@@ -1,0 +1,28 @@
+_repo: The-Life-of-James-McNeill-Whistler_47363
+creator:
+  authors:
+  - agent_name: Pennell, Elizabeth Robins
+    alias: Pennell, E. R. (Elizabeth Robins)
+    birthdate: 1855
+    deathdate: 1936
+    gutenberg_agent_id: '25552'
+    url: http://www.gutenberg.org/2009/agents/25552
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Robins_Pennell
+  - agent_name: Pennell, Joseph
+    alias: Pennell, J. (Joseph)
+    birthdate: 1857
+    deathdate: 1926
+    gutenberg_agent_id: '33068'
+    url: http://www.gutenberg.org/2009/agents/33068
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Pennell
+description: ''
+gutenberg_issued: '2014-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47363'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The Life of James McNeill Whistler
+url: http://www.gutenberg.org/ebooks/47363
