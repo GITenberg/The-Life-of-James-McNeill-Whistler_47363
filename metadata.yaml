@@ -1,4 +1,8 @@
 _repo: The-Life-of-James-McNeill-Whistler_47363
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47363-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Pennell, Elizabeth Robins
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33068
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Pennell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47363#The-Life-of-James-McNeill-Whistler
 gutenberg_issued: '2014-11-16'
 gutenberg_type: Text
 identifiers:
